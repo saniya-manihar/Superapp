@@ -1,2 +1,3 @@
 chat rs10
 samosa rs 15
+pizza cha rs 50
